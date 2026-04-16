@@ -2,7 +2,7 @@
 
 # Hey, I'm Arda Koca
 
-I'm a young entrepreneur from Turkey passionate about social media, SEO, and building an online presence that actually moves the needle. I help brands grow, engage, and stand out in the digital space.
+I'm a young entrepreneur passionate about social media, SEO, and building an online presence that actually moves the needle. I help brands grow, engage, and stand out in the digital space.
 
 [![Website](https://img.shields.io/badge/ardakocaa.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ardakoca.com)
 [![Instagram](https://img.shields.io/badge/@ardakocae-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ardakocae)
